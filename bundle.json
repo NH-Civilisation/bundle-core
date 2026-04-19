@@ -1,0 +1,14 @@
+{
+  "name": "core",
+  "version": "0.1.0",
+  "description": "Curated core collection of public domain works for Civilisation",
+  "repository": "https://github.com/NH-Civilisation/bundle-core",
+  "license": "CC0-1.0",
+  "size": {
+    "works": 0,
+    "authors": 0,
+    "text_bytes": 0
+  },
+  "works": {},
+  "authors": {}
+}
